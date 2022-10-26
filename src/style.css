@@ -1,0 +1,13 @@
+:root {
+  --body-padding: 0;
+  --body-margin: 0;
+  --body-overflow: hidden
+;
+}
+
+body {
+  padding: var(--body-padding);
+  margin: var(--body-margin);
+  overflow: var(--body-overflow);
+}
+/*# sourceMappingURL=style.css.map */
